@@ -2,7 +2,7 @@
 Challenge 1
 
 For this refactor I adjusted and corrected the order and syntax in the CSS. I also adjusted some of the HTML so that it is not div soup (included a header, section elements, and a footer). I also corrected the missing link in the header, so that should now be working.
-Link: https://anthonypotts.github.io/horiseon-refactor/Develop/#social-media-marketing
+Link: https://anthonypotts.github.io/horiseon-refactor/Develop/
 
 I was unable to upload a screenshot to this README.
 
